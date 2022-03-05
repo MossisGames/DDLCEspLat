@@ -1,0 +1,17 @@
+﻿Lo siento, pero se produjo una excepción no detectada..
+
+-- Reporte Completo ------------------------------------------------------------
+
+Mientras se ejecuta el código del juego:
+  Archivo "game/script.rpy", linea 31, en la llamada del script
+    call ch5_main
+  Archivo "game/script-ch5.rpy", linea 290, en el script
+    python:
+  Archivo "renpy/common/00start.rpy", linea 258, en el <module>
+    renpy.call_in_new_context(_restart[2])
+JumpException: Oh Dios...No rompí nada, ¿Verdad? Espera un segundo, tal vez pueda arreglar esto...creo...
+En realidad, ¿sabes qué? Esto sería mucho más fácil si sólo la eliminamos. Ella es la que lo está haciendo tan difícil. ¡Jajaja! Bueno, aquí vamos.
+
+Windows-8-6.2.9200
+Ren'Py 6.99.12.4.2187
+Doki Doki Literature Club! 1.1.1
